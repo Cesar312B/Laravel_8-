@@ -24,8 +24,14 @@ Laravel es un marco de aplicación web con una sintaxis expresiva y elegante. Cr
 ## Caracteristicas de la App 
 
 - Login con Jetstrem
+![image](https://user-images.githubusercontent.com/86753747/172670489-20b2f721-93ac-4a89-a95d-339160033622.png)
+
 - Crud basico una tabla
+![image](https://user-images.githubusercontent.com/86753747/172670582-600f6ec9-d6ec-45b8-a0cb-33730cd2e2e0.png)
+
 - Crud basico con tablas relacionadas 
+![image](https://user-images.githubusercontent.com/86753747/172670703-7920f3eb-d3b1-4961-a4b1-a6bcaf7a7047.png)
+
 - Integracion de template AdminLite 3
 - Proteccion de inicio de session 
 - Uso de datatables en las vistas de los datos
